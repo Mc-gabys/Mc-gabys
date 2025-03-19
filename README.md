@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Mc-gabys
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Mc-gabys
+- 👀 I’m interested in development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 14 years old
+- 📫 How to reach me: the.mcgabys@gmail.com
+- ⚡ Fun fact: 15 years old
 
 <!---
 Mc-gabys/Mc-gabys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
